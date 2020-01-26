@@ -17,6 +17,7 @@ A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](h
 * RDR - Found bootstrap folder to be empty of scss files.  copied bootstrap.scss ONLY
 * RDR - copied entire directory.  Renamed bootstrap to bootswatch.scss
 * RDR - testing headers
+* RDR more tests
 
 ## Setup Guide
 
