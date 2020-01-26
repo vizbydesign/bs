@@ -30,9 +30,11 @@ plugins:
   - jekyll-sitemap
 
 # A list of the pages to display in the navigation bar
-#header_pages:
- #   - LICENSE.md
- #  - README.md
+header_pages:
+    - one.md
+    - two.md
+    - three.md
+    - four.md
     
 
 # Exclude from processing.
