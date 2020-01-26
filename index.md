@@ -12,6 +12,7 @@ A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](h
 * RDR - Added this comment to recompile
 * RDR - Added for attempt to use sketchy
 * RDR - Another compile
+* RDR - Try again - moved bootstrap files.
 
 ## Setup Guide
 
