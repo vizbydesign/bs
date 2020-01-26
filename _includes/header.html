@@ -12,8 +12,9 @@
 	  <!-- page_paths:{{page_paths}} -->
         {%- for path in page_paths -%}
 			<!-- path:{{page_paths}} -->
-          {%- assign my_page = site.pages | where: "path", path | first -%}
 			<!-- site.pages:{{site.pages}} -->
+          {%- assign my_page = site.pages | where: "path", path | first -%}
+			<!-- my_page:{{my_page}} -->
           {%- if my_page.title -%}
           <li class="nav-item">
             <a class="nav-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sketchy Template Page for Bootstrap
+title: One
 ---
 
 
