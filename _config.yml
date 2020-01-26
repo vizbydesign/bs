@@ -33,6 +33,10 @@ plugins:
 header_pages:
     - LICENSE.md
     - README.md
+    
+pages:
+    - License
+    - Readme
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
