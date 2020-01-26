@@ -7,7 +7,7 @@
       aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
-    <div class="expanded navbar-expand-lg" id="navbarColor02">
+    <div class="collapse navbar" id="navbarColor02">
       <ul class="navbar-nav mr-auto">
         {%- for path in page_paths -%}
           {%- assign my_page = site.pages | where: "path", path | first -%}
