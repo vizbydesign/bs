@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bootstrap 4 Github Pages
+title: Sketchy Template Page for Bootstrap
 ---
 
 A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
@@ -16,6 +16,7 @@ A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](h
 * RDR - Moved again
 * RDR - Found bootstrap folder to be empty of scss files.  copied bootstrap.scss ONLY
 * RDR - copied entire directory.  Renamed bootstrap to bootswatch.scss
+* RDR - testing headers
 
 ## Setup Guide
 

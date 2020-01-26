@@ -31,10 +31,10 @@ plugins:
 
 # A list of the pages to display in the navigation bar
 header_pages:
-- Tableau
-- Viz Reviews
-- Design
-- About Me
+    Tableau
+    Viz Reviews
+    Design
+    About Me
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
