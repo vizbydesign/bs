@@ -19,8 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Helping the world see data in a way that makes sense.
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
-#github_username:  jekyll
+#twitter_username: vizbydesign
+#github_username: vizbydesign
 
 repository: "vizbydesign/vizbydesign.github.io"
 
@@ -31,10 +31,8 @@ plugins:
 
 # A list of the pages to display in the navigation bar
 header_pages:
-    Tableau
-    Viz Reviews
-    Design
-    About Me
+    - license.md
+    - readme.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
