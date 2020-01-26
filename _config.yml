@@ -30,13 +30,10 @@ plugins:
   - jekyll-sitemap
 
 # A list of the pages to display in the navigation bar
-header_pages:
-    - LICENSE.md
-    - README.md
+#header_pages:
+ #   - LICENSE.md
+ #  - README.md
     
-pages:
-    - License
-    - Readme
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
