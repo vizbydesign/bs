@@ -9,5 +9,6 @@ title: Welcome to my new site!
 - I don't really know what I'm doing
 - I hope to get it all set up soon
 
-> I should say something classy here
+# this is supposed to be a quoteblock
+> I should say something classy
 > but it's just not my style.
