@@ -15,6 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Viz by Design
 email: "vizbydesign@gmail.com"
+author: "Ryan Rattenborg"
 description: >- # this means to ignore newlines until "baseurl:"
   Helping the world see data in a way that makes sense.
 #baseurl: "" # the subpath of your site, e.g. /blog
