@@ -9,17 +9,7 @@ A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](h
 * Recompiles Bootstrap from SCSS files, which allows to customize Bootstrap's variables and use Bootstrap themes.
 * Full support of Bootstrap's JavaScript plugins.
 * Supports all features of Github Pages and Jekyll.
-* RDR - Added this comment to recompile
-* RDR - Added for attempt to use sketchy
-* RDR - Another compile
-* RDR - Try again - moved bootstrap files.
-* RDR - Moved again
-* RDR - Found bootstrap folder to be empty of scss files.  copied bootstrap.scss ONLY
-* RDR - copied entire directory.  Renamed bootstrap to bootswatch.scss
-* RDR - testing headers
-* RDR more tests\
-* test again....how can I get includes recompiled?
-* lost changes...doh
+* RDR - Deleted my big list of attempts.
 
 ## Setup Guide
 
