@@ -13,7 +13,7 @@ layout: default
   <section>
     {{ content }}
   </section>
-
+  <!-- Count the posts:{{ site.posts.size }} -->
   {%- if site.posts.size > 0 -%}
     <p class="h4">{{ page.list_title | default: "Posts" }}</p>
     <ul class="list-unstyled">
