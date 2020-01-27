@@ -19,6 +19,7 @@ A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](h
 * RDR - testing headers
 * RDR more tests\
 * test again....how can I get includes recompiled?
+* lost changes...doh
 
 ## Setup Guide
 
