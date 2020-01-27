@@ -23,6 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 #github_username: vizbydesign
 
 repository: "vizbydesign/vizbydesign.github.io"
+tableau_public_profile: "https://public.tableau.com/profile/ryan.rattenborg#!/"
 
 # Build settings
 plugins:
